@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 numpy = "*"
+scikit-learn = "*"
+matplotlib = "*"
+tabulate = "*"
 
 [dev-packages]
 
